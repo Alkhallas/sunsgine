@@ -1,2 +1,2 @@
-# sunsgine
+# sunshine
 first prpgram
